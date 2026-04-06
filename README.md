@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi 👋, I'm Tejas Sutar
 
 💻 Aspiring Software Developer | Problem Solver | Tech Learner  
@@ -16,9 +14,33 @@
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Technologies
 
-- **Languages:** C, C++, Java  
-- **Database:** SQL  
-- **Concepts:** Data Structures, Algorithms  
-- **Tools:** Git, GitHub
+### 💻 Programming Languages
+- Java  
+- C  
+- C++  
+- Python  
+- JavaScript  
+
+### ⚙️ Backend Technologies
+- Spring Boot  
+- REST APIs  
+
+### 🗄️ Databases
+- MySQL  
+- MongoDB  
+- Oracle (PL/SQL)  
+
+### 🧰 Tools & Platforms
+- Git  
+- GitHub  
+- IntelliJ IDEA  
+- Visual Studio Code  
+- Linux (Ubuntu)  
+
+### 🧠 Core Computer Science Concepts
+- Data Structures & Algorithms  
+- Object-Oriented Programming (OOP)  
+- Operating Systems Internals (Linux)  
+- Computer Networks  
