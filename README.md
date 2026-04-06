@@ -43,4 +43,12 @@
 - Data Structures & Algorithms  
 - Object-Oriented Programming (OOP)  
 - Operating Systems Internals (Linux)  
-- Computer Networks  
+- Computer Networks
+
+---
+
+## 🔥 GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=TejasSutar9)](https://git.io/streak-stats)
+
+---
