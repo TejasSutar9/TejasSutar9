@@ -1,16 +1,24 @@
 ## Hi there 👋
 
-<!--
-**TejasSutar9/TejasSutar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Tejas Sutar
 
-Here are some ideas to get you started:
+💻 Aspiring Software Developer | Problem Solver | Tech Learner  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 💻 Passionate about **Programming and Software Development**
+- 📚 Currently learning **Data Structures and Algorithms**
+- 🔧 Working with **C, C++, Java, and SQL**
+- 🧠 Interested in **System Programming and Problem Solving**
+- ⚡ Always improving **logic building and coding skills**
+
+---
+
+## 🛠️ Skills
+
+- **Languages:** C, C++, Java  
+- **Database:** SQL  
+- **Concepts:** Data Structures, Algorithms  
+- **Tools:** Git, GitHub
