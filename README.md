@@ -52,3 +52,9 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=TejasSutar9)](https://git.io/streak-stats)
 
 ---
+
+## 📊 Contribution Activity
+
+The following graph represents development activity and consistency during the project:
+
+![Contribution Graph](contribution_graph.png)
