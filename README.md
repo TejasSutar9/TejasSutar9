@@ -55,6 +55,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasSutar9&show_icons=true&theme=tokyonight)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&theme=tokyo-night)
 
 ![Streak](https://streak-stats.demolab.com/?user=TejasSutar9&theme=tokyonight)
