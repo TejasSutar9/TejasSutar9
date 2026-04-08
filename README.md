@@ -49,14 +49,6 @@
 
 ## 🔥 GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=TejasSutar9)](https://git.io/streak-stats)
-
----
-
-## 📊 GitHub Stats
-
-
-
 ![Streak](https://streak-stats.demolab.com/?user=TejasSutar9&theme=tokyonight)
 
 ---
