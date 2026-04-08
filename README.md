@@ -57,4 +57,4 @@
 
 The following graph represents development activity and consistency during the project:
 
-![Contribution Graph](contribution_graph.png)
+![Contribution Graph](images/contribution_graph.png)
