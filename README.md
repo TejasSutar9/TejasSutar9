@@ -55,6 +55,12 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&theme=tokyo-night)
+
 
 ![Streak](https://streak-stats.demolab.com/?user=TejasSutar9&theme=tokyonight)
+
+---
+
+## 📊 Contribution Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&theme=tokyo-night)
