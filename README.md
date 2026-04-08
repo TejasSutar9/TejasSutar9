@@ -55,4 +55,4 @@
 
 ## 📊 Contribution Activity
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&theme=tokyo-night)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=000000)
