@@ -55,6 +55,4 @@
 
 ## 📊 Contribution Activity
 
-The following graph represents development activity and consistency during the project:
-
-![Contribution Graph](images/contribution_graph.png)
+![Contribution Graph](https://github.com/TejasSutar9/Java_Chat_Messenger_with_Log_Facility/raw/main/contribution_graph.png)
