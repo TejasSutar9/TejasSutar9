@@ -53,6 +53,8 @@
 
 ---
 
-## 📊 Contribution Activity
+## 📊 GitHub Stats
 
-![Contribution Graph](https://github.com/TejasSutar9/Java_Chat_Messenger_with_Log_Facility/raw/main/contribution_graph.png)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TejasSutar9&show_icons=true&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=TejasSutar9&theme=tokyonight)
