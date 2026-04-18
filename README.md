@@ -1,16 +1,16 @@
 # Hi 👋, I'm Tejas Sutar
 
-💻 Aspiring Software Developer | Problem Solver | Tech Learner  
+I am a Java backend developer with a strong foundation in programming and data structures. I have built projects using Spring Boot, REST APIs, and databases. I am seeking an opportunity to develop scalable backend applications while continuously improving my technical skills. 
 
 ---
 
 ## 🚀 About Me
 
-- 💻 Passionate about **Programming and Software Development**
-- 📚 Currently learning **Data Structures and Algorithms**
-- 🔧 Working with **C, C++, Java, and SQL**
-- 🧠 Interested in **System Programming and Problem Solving**
-- ⚡ Always improving **logic building and coding skills**
+- 💻 Interested in building backend systems and working with low-level programming
+- ⚙️ Exploring concepts like operating systems, networking, and scalable applications
+- 🧠 Good understanding of data structures and problem-solving techniques
+- 🐧 Familiar with Linux-based environments
+- 📚 Regularly learning and improving development skills
 
 ---
 
