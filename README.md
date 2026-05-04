@@ -4,14 +4,6 @@ I am a Java backend developer with a strong foundation in programming and data s
 
 ---
 
-## 🚀 About Me
-
-- 💻 Interested in building backend systems and working with low-level programming
-- ⚙️ Exploring concepts like operating systems, networking, and scalable applications
-- 🧠 Good understanding of data structures and problem-solving techniques
-- 🐧 Familiar with Linux-based environments
-- 📚 Regularly learning and improving development skills
-
 ---
 
 ## 🛠️ Skills & Technologies
