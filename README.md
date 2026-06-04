@@ -39,12 +39,4 @@ I am a Java backend developer with a strong foundation in programming and data s
 
 ---
 
-## 🔥 GitHub Streak
 
-![Streak](https://streak-stats.demolab.com/?user=TejasSutar9&theme=tokyonight)
-
----
-
-## 📊 Contribution Activity
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=TejasSutar9&bg_color=000000&color=FFFFFF&line=FFFFFF&point=FFFFFF&area=true&area_color=000000)
