@@ -4,8 +4,6 @@ I am a Java backend developer with a strong foundation in programming and data s
 
 ---
 
----
-
 ## 🛠️ Skills & Technologies
 
 ### 💻 Programming Languages
